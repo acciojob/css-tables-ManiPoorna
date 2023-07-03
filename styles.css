@@ -4,9 +4,9 @@ td,th{
 	padding : 0.5rem;
 	border-radius : 5px;
 }
-tr:nth-child(odd){
+tr:nth-child(odd) td{
 	background : rgb(242, 242, 242);
 }
-tr:nth-child(even){
+tr:nth-child(even) td{
 	background : #ffffff;
 }
